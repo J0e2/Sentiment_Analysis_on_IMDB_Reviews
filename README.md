@@ -1,5 +1,8 @@
-Sentiment Analysis on IMDB Reviews \n
+Sentiment Analysis on IMDB Reviews 
+
+
 Overview
+
 This project performs sentiment analysis on IMDB movie reviews using various machine learning models. The goal is to classify movie reviews as either positive or negative based on their text content.
 
 Dataset
